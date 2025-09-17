@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block only non-SEO important system folders
+Disallow: /cgi-bin/
+Disallow: /scripts/
+Disallow: /tmp/
+
+# Sitemap location
+Sitemap: https://virilwoodus.netlify.app/sitemap.xml
